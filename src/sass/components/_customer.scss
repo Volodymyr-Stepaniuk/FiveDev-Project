@@ -45,7 +45,7 @@
 }
 
 .customer__list {
-  background: $five-bgc;
+  background: #fafafa;
   display: flex;
   align-items: center;
   height: 308px;
@@ -223,7 +223,7 @@
 }
 
 .slick-dots li.slick-active button {
-  background-image: url(../../images/sprite.svg#home);
+  background-image: url("../../images/sprite.svg#home");
   background-color: $second-text-color;
   background-repeat: no-repeat;
   background-position: 0 0;
